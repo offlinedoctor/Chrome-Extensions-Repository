@@ -28,21 +28,21 @@ That way, you can learn both the Japanese pronunciation as well as it's English 
 
 
 ### Step 2 - Click on the App Icon: 
-![This is an image](/readme-resources/1.appIcon.png)
+![This is an image](/Chrome-Extension-Anki-Helper/readme-resources/1.appIcon.png)
 
 
 
 ### Step 3 - Input your word and then Press Submit:
 <p>
-  <img src="/readme-resources/2.theApp.png" alt="Sublime's custom image"/>
+  <img src="/Chrome-Extension-Anki-Helper/readme-resources/2.theApp.png" alt="Sublime's custom image"/>
 </p>
 
 <p>
-  <img src="/readme-resources/3.InputWord.png" alt="Sublime's custom image"/>
+  <img src="/Chrome-Extension-Anki-Helper/readme-resources/3.InputWord.png" alt="Sublime's custom image"/>
 </p>
 
 
 ### Step 4 - The Cue Cards will output the Word:
 <p>
-  <img src="/readme-resources/4.output.png" alt="Sublime's custom image"/>
+  <img src="/Chrome-Extension-Anki-Helper/readme-resources/4.output.png" alt="Sublime's custom image"/>
 </p>
