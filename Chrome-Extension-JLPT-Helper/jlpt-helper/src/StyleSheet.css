@@ -1,0 +1,16 @@
+.WritingPractice
+{
+	display: flex;
+	flex-direction: column;
+}
+
+.MainBar
+{
+	display: flex;
+	flex-direction: column;
+}
+
+.padding
+{
+	
+}

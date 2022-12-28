@@ -1,0 +1,22 @@
+{
+  "name": "Anki Helper",
+  "description": "A Google Chrome extension!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["contextMenus", "storage"],
+  "action": {
+  	"default_popup": "popup.html",
+  "default_icon": {
+  "48": "/assets/icons/48.png",
+  "128": "/assets/icons/128.png"
+  }
+},
+  "host_permissions": [
+        "https://jisho.org/api/v1/search/words?keyword="
+    ],
+  "background": {
+    "js": "background.js",
+    "css": "style.jss",
+    "service_worker": "background.js"
+  }
+}
