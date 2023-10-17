@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6d7a6889.css","mappings":"AAMA,0BAEC,YAAa,CACb,qBACD","sources":["StyleSheet.css"],"sourcesContent":[".WritingPractice\r\n{\r\n\tdisplay: flex;\r\n\tflex-direction: column;\r\n}\r\n\r\n.MainBar\r\n{\r\n\tdisplay: flex;\r\n\tflex-direction: column;\r\n}\r\n\r\n.padding\r\n{\r\n\t\r\n}"],"names":[],"sourceRoot":""}
