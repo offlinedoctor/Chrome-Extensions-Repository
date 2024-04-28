@@ -1,0 +1,11 @@
+{
+  "name": "Conjugation Chart",
+  "description": "A Google Chrome extension!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["contextMenus", "storage"],
+  "action": 
+	{
+  		"default_popup": "Website.html"
+	}
+}
