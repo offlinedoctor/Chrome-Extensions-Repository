@@ -4,6 +4,9 @@
   "version": "1.0",
   "manifest_version": 3,
   "permissions": ["contextMenus", "storage"],
+  "host_permissions": [
+    "http://steven-kraft.com/projects/japanese/randomize/"
+  ],
   "action": 
 	{
   		"default_popup": "Website.html"
