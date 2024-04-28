@@ -3,7 +3,7 @@
   "description": "A Google Chrome extension!",
   "version": "1.0",
   "manifest_version": 3,
-  "permissions": ["contextMenus", "storage"],
+  "permissions": ["contextMenus", "storage", "cookies"],
   "host_permissions": [
     "http://steven-kraft.com/projects/japanese/randomize/"
   ],
